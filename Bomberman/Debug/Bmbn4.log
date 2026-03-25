@@ -1,0 +1,42 @@
+﻿Compilación iniciada a las 13/06/2016 9:34:00.
+     1>Proyecto "C:\Users\Álvaro\Documents\Uni\4º\Infind2\Bmbn4\Bmbn4\Bmbn4.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Bmbn4.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Suelo.cpp
+         Suelo.cpp
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Álvaro\Documents\Uni\4º\Infind2\Bmbn4\Debug\Bmbn4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bmbn4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Álvaro\Documents\Uni\4º\Infind2\Bmbn4\Debug\Bmbn4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Álvaro\Documents\Uni\4º\Infind2\Bmbn4\Debug\Bmbn4.lib" /MACHINE:X86 Debug\Bmbn4.exe.embed.manifest.res
+         Debug\Bloque.obj
+         Debug\Bomba.obj
+         Debug\Bomberman.obj
+         Debug\Bonus.obj
+         Debug\Celda.obj
+         Debug\Coordinador.obj
+         Debug\Enemigo.obj
+         Debug\Explosion.obj
+         Debug\ListaBombas.obj
+         Debug\ListaBonus.obj
+         Debug\ListaEnemigos.obj
+         Debug\Mundo.obj
+         Debug\Muro.obj
+         Debug\Personaje.obj
+         Debug\Suelo.obj
+         Debug\Tablero.obj
+         Debug\X.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Bmbn4.exe.embed.manifest" /manifest Debug\Bmbn4.exe.intermediate.manifest
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         Bmbn4.vcxproj -> C:\Users\Álvaro\Documents\Uni\4º\Infind2\Bmbn4\Debug\Bmbn4.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Bmbn4.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Bmbn4.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\Álvaro\Documents\Uni\4º\Infind2\Bmbn4\Bmbn4\Bmbn4.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.65
